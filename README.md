@@ -1,7 +1,7 @@
 # Git Cheat Sheet: Aman vs Berbahaya Saat Kolaborasi
 
 ## Rule of Thumb
-> Jangan mengubah riwayat commit yang sudah di-push ke remote jika orang lain mungkin sudah menariknya.
+> Jangan mengubah riwayat commit yang sudah di-push ke remote jika sudah ada orang lain melakukan `git pull`.
 
 ---
 
